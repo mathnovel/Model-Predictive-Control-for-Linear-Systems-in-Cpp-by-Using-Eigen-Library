@@ -1,4 +1,8 @@
-# 原版代码有点问题，我改成cmake版本可以编译和运行，看can_compile_run目录
+#  cross-platform version and bug fix
+
+look at the **can_compile_run**
+ 
+cross-platform version about the project,you can compile under linux,window
 
 -----
 
