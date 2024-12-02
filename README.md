@@ -1,3 +1,7 @@
+# 原版代码有点问题，我改成cmake版本可以编译和运行，看can_compile_run目录
+
+-----
+
 # Model-Predictive-Control-for-Linear-Systems-in-Cpp-by-Using-Eigen-Library
 
 FIRST, READ THE LICENSE AT THE END OF THIS FILE
